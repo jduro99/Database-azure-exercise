@@ -3,7 +3,7 @@
 ![Portada del Proyecto](./SQL_proyect.png)
 
 ## Description
-Resolution of different questions about a SQL database. The querys:
+Resolution of different questions about a SQL database. The questions:
 1. Select all the details of products priced over 100.
 2. Shows products that belong to category co ID 18 and have a weight of more than 1000.
 3. Select the names and prices of the products priced between 50 and 300.
